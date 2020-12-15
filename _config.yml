@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: XPLORETV2GO Convention
+github:
+  is_project_page: true
+description: The main objective of the XPLORETV2GO project is to disseminate experiences and tools for the easy creation of TV-compatible web applications.
