@@ -2,6 +2,5 @@ theme: jekyll-theme-cayman
 title: XploreTV2GO Convention
 github:
   is_project_page: true
-  show_downloads: true
-
+show_downloads: true
 description: An overview of best practices, definitions and specifications for the use of 3rd party services within XploreTV.
