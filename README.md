@@ -1,4 +1,4 @@
-# XploreTV2GO - Description
+# XploreTV2GO - Introduction
 
 The main objective of the **XploreTV2GO** initiative is to disseminate experiences and tools for the easy creation of TV-compatible web applications.
 
